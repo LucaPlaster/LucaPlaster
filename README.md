@@ -3,7 +3,7 @@
 # Luca Mascarenhas Plaster
 
 **Dev de IA • Visão Computacional • MLOps**  
-BSc. Ciência da Computação — UFG • Goiânia, GO
+Formado em Ciência da Computação — UFG • Pesquisador no CEIA • CTO na WiMilk • Goiânia, GO
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Dev+de+IA+%7C+Vis%C3%A3o+Computacional+%7C+MLOps;Java+%E2%80%A2+Python+%E2%80%A2+SQL;Construindo+modelos+que+viram+produto" />
 
@@ -15,6 +15,8 @@ BSc. Ciência da Computação — UFG • Goiânia, GO
 ---
 
 ## Sobre
+- **Atuação**: Pesquisador no **CEIA** • **CTO** na **WiMilk**
+- **Formação**: Ciência da Computação — **UFG**
 - **Foco**: desenvolvimento de IA aplicada, **visão computacional** e **engenharia para colocar modelos em produção (MLOps)**
 - **Interesses**: pipelines de dados, avaliação de modelos, deploy, monitoramento, automação de treino/inferência
 
@@ -45,16 +47,6 @@ BSc. Ciência da Computação — UFG • Goiânia, GO
 <img height="180" src="https://streak-stats.demolab.com?user=LucaPlaster&theme=transparent&hide_border=false" />
 
 </div>
-
----
-
-## Projetos em destaque (selecione 3–6)
-- **ComputerVision** — estudos e projetos de visão computacional  
-- **Projeto-LibManager (Java)** — projeto acadêmico/sistema de gerenciamento  
-- **Programas_de_Estagio** — notebooks e estudos  
-- **Faculdade-Projetos** — coletânea de projetos
-
-> Dica: fixe esses repositórios no seu perfil em **Customize your pins**.
 
 ---
 
