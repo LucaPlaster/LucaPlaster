@@ -56,13 +56,9 @@ I build computer vision systems and take them from a research notebook to someth
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## GitHub
+## Contributions
 
 <div align="center">
-
-<!-- Rendered daily by .github/workflows/metrics.yml and committed to this repo. -->
-<!-- Native SVG width is 480px; do not stretch it or the type scales up with it. -->
-<img alt="GitHub metrics" src="https://raw.githubusercontent.com/LucaPlaster/LucaPlaster/main/github-metrics.svg" width="480" />
 
 <!-- Rendered daily by .github/workflows/snake.yml and committed to this repo. -->
 <picture>
