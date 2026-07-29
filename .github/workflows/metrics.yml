@@ -29,7 +29,10 @@ jobs:
           user: LucaPlaster
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          # Only the header: the activity/community/repositories blocks render a
+          # column of zeros (0 PRs reviewed, 0 issues, 0 stargazers...) which makes
+          # the profile look emptier than it is, and triples the card height.
+          base: header
           config_timezone: America/Sao_Paulo
 
           plugin_isocalendar: yes

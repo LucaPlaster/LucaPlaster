@@ -61,7 +61,8 @@ I build computer vision systems and take them from a research notebook to someth
 <div align="center">
 
 <!-- Rendered daily by .github/workflows/metrics.yml and committed to this repo. -->
-<img alt="GitHub metrics" src="https://raw.githubusercontent.com/LucaPlaster/LucaPlaster/main/github-metrics.svg" width="100%" />
+<!-- Native SVG width is 480px; do not stretch it or the type scales up with it. -->
+<img alt="GitHub metrics" src="https://raw.githubusercontent.com/LucaPlaster/LucaPlaster/main/github-metrics.svg" width="480" />
 
 <!-- Rendered daily by .github/workflows/snake.yml and committed to this repo. -->
 <picture>
