@@ -2,23 +2,33 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Required: git-auto-commit-action needs a git working tree to commit into.
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: LucaPlaster
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update snake"
+          commit_message: "chore: update contribution snake"
           file_pattern: dist/*.svg
