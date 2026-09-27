@@ -60,11 +60,6 @@ I build computer vision systems and take them from a research notebook to someth
 
 <div align="center">
 
-<!-- Rendered daily by .github/workflows/snake.yml and committed to this repo. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucaPlaster/LucaPlaster/main/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucaPlaster/LucaPlaster/main/dist/snake.svg" />
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/LucaPlaster/LucaPlaster/main/dist/snake.svg" />
-</picture>
+
 
 </div>
