@@ -9,7 +9,7 @@ BSc in Computer Science, UFG · Researcher at [CEIA](https://ceia.ufg.br/) · CT
 <img alt="AI Engineer | Computer Vision | MLOps" src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Computer+Vision+%7C+MLOps;Python+%E2%80%A2+Java+%E2%80%A2+SQL;Turning+research+models+into+production+systems" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Plaster-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-plaster-97494720b)
-[![Email](https://img.shields.io/badge/Email-lucaplaster%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaplaster@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lucaplaster%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaplaster@wimilk.ia.br)
 [![Followers](https://img.shields.io/github/followers/LucaPlaster?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=0A66C2)](https://github.com/LucaPlaster?tab=followers)
 
 </div>
